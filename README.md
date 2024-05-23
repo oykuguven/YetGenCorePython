@@ -1,37 +1,40 @@
 # YetGenCorePython
 YetGen Core Python
-egitim-oncesi-uygulamalar/hafta-1/README.md
-egitim-sonrası-uygulamalar/hafta-1/README.md
 
-egitim-oncesi-uygulamalar/hafta-2/README.md
-egitim-sonrası-uygulamalar/hafta-2/README.md
+Hafta 1 Eğitim Öncesi Uygulamalar
+Hafta 1 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-3/README.md
-egitim-sonrasi-uygulamalar/hafta-3/README.md
+Hafta 2 Eğitim Öncesi Uygulamalar
+Hafta 2 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-4/README.md
-egitim-sonrası-uygulamalar/hafta-4/README.md
 
-egitim-oncesi-uygulamalar/hafta-5/README.md
-egitim-sonrası-uygulamalar/hafta-5/README.md
+Hafta 3 Eğitim Öncesi Uygulamalar
+Hafta 3 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-6/README.md
-egitim-sonrası-uygulamalar/hafta-6/README.md
+Hafta 4 Eğitim Öncesi Uygulamalar
+Hafta 4 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-7/README.md
-egitim-sonrası-uygulamalar/hafta-7/README.md
+Hafta 5 Eğitim Öncesi Uygulamalar
+Hafta 5 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-8/README.md
-egitim-sonrası-uygulamalar/hafta-8/README.md
+Hafta 6 Eğitim Öncesi Uygulamalar
+Hafta 6 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-9/README.md
-egitim-sonrası-uygulamalar/hafta-9/README.md
+Hafta 7 Eğitim Öncesi Uygulamalar
+Hafta 7 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-10/README.md
-egitim-sonrası-uygulamalar/hafta-10/README.md
+Hafta 8 Eğitim Öncesi Uygulamalar
+Hafta 8 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-11/README.md
-egitim-sonrası-uygulamalar/hafta-11/README.md
+Hafta 9 Eğitim Öncesi Uygulamalar
+Hafta 9 Sonrası Uygulamalar
 
-egitim-oncesi-uygulamalar/hafta-12/README.md
-egitim-sonrası-uygulamalar/hafta-12/README.md
+Hafta 10 Eğitim Öncesi Uygulamalar
+Hafta 10 Sonrası Uygulamalar
+
+Hafta 11 Eğitim Öncesi Uygulamalar
+Hafta 11 Sonrası Uygulamalar
+
+Hafta 12 Eğitim Öncesi Uygulamalar
+Hafta 12 Sonrası Uygulamalar
+

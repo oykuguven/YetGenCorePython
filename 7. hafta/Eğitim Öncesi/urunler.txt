@@ -1,0 +1,2 @@
+kalem, 5
+silgi, 8.5
